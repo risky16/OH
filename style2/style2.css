@@ -1,0 +1,129 @@
+.header {
+    background-color: #8276ce;
+    height: 90px;
+}
+
+.header-logo{
+    font-size:36px;
+    float:left;
+    padding:20px 40px 20px 40px;
+}
+
+.header-list {
+    font-family: sans-serif;
+    color: white;
+    float: right;
+}
+
+li {
+    list-style: none;
+    float: left;
+    padding-top:33px;
+    padding-bottom:33px;
+    padding-right:20px;
+    padding-left:20px;
+    margin-right: 50px;
+
+}
+
+
+h1 {
+    font-size: 72px;
+}
+
+h2 {
+    font-size: 48px;
+}
+ 
+
+.main {
+    padding: 100px 80px;
+
+}
+
+.main h2 span{
+    color: blueviolet;
+}
+
+.main h3 span {
+    color:#7694ce;
+}
+
+.main h4  {
+    
+    text-align: center;
+}
+.main answer {
+    padding: 10px;
+    background-color: #8276ce;
+    color: white;
+    border: 1px solid #8276ce;
+    margin-right: 10px;
+    
+}
+
+.contents h3  {
+        text-align: center;
+}
+
+
+   
+img {
+    
+    float: left;
+    margin-left: 200px ;
+    padding-top: 20px;
+
+    
+    
+}
+
+  
+input, textarea {
+    width: 800px;
+    border-bottom: 1px solid;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 20px;
+    font-size: 18px;
+    border: 1px solid #8276ce;
+    border-radius: 10px;
+    
+  }
+
+  
+
+.contact-submit {
+    background-color: #8276ce;
+   
+    width: 200px;
+}
+
+.answer {
+    background-color: #8276ce;
+    color: white;
+    width: 150px;
+    text-align: center;
+    margin-left : 47%;
+}
+
+
+.formulir {
+    padding-top:400px;
+}
+    
+
+
+.footer {
+    height: 120px;
+    padding: 100px;
+   
+    
+}
+
+.footer-logo {
+    font-size:32px;
+    float:left;
+}
+
+
